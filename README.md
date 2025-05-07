@@ -1,11 +1,12 @@
-### oi, eu sou Gabriele! 🥰  
+## oi, eu sou Gabriele! 🥰  
+---
 💻 graduanda em Ciência da Computação pela UFCG</br>
 🌱 focada em desenvolvimento backend com Java/Spring, automação com Kubernetes e apps mobile com React Native.</br>
 🌐 você pode me encontrar também no [linkedIn](https://www.linkedin.com/in/gabrielecalafange) :) </br>  
 
-### minhas hard skills...
-
-#### backend
+---
+### minhas hard skills:
+#### backend & dev
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -21,7 +22,6 @@
 #### dados & análises
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
 
 ---
 
